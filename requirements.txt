@@ -1,6 +1,2 @@
 tensorflow 
-keras
-streamlit
-Dense
-Embeddings
 numpy
